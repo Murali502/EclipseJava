@@ -1,0 +1,1 @@
+java -cp C:\Users\girish\Desktop\EclipseJava\JenkinsTest\bin;C:\Users\girish\Desktop\EclipseJava\JenkinsTest\jars\*; org.testng.TestNG testng.xml

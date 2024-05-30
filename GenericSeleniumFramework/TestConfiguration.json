@@ -1,0 +1,28 @@
+[
+{
+"Environment":"SIT5",
+"Configuration":{
+"URL" :"value not set",
+"UserName" :"value not set",
+"Password" :"value not set"
+}
+},
+
+{
+"Environment":"SIT1",
+"Configuration":{
+"URL" :"value not set",
+"UserName" :"value not set",
+"Password" :"value not set"
+}
+},
+
+{
+"Environment":"UAT",
+"Configuration":{
+"URL" :"value not set",
+"UserName" :"value not set",
+"Password" :"value not set"
+}
+}
+]

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="282" started-at="2021-12-26T14:56:37Z" finished-at="2021-12-26T14:56:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="282" started-at="2021-12-26T14:56:37Z" finished-at="2021-12-26T14:56:37Z">
+      <class name="Test1">
+        <test-method status="PASS" signature="BeforeTest()[pri:0, instance:Test1@1081592]" name="BeforeTest" is-config="true" duration-ms="69" started-at="2021-12-26T14:56:37Z" finished-at="2021-12-26T14:56:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method status="PASS" signature="BeforeClass()[pri:0, instance:Test1@1081592]" name="BeforeClass" is-config="true" duration-ms="2" started-at="2021-12-26T14:56:37Z" finished-at="2021-12-26T14:56:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method status="PASS" signature="BeforeClass1()[pri:0, instance:Test1@1081592]" name="BeforeClass1" is-config="true" duration-ms="1" started-at="2021-12-26T14:56:37Z" finished-at="2021-12-26T14:56:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass1 -->
+        <test-method status="PASS" signature="BeforeTest1()[pri:0, instance:Test1@1081592]" name="BeforeTest1" is-config="true" duration-ms="1" started-at="2021-12-26T14:56:37Z" finished-at="2021-12-26T14:56:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest1 -->
+        <test-method status="PASS" signature="Test3()[pri:0, instance:Test1@1081592]" name="Test3" duration-ms="34" started-at="2021-12-26T14:56:37Z" finished-at="2021-12-26T14:56:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:Test1@1081592]" name="AfterMethod" is-config="true" duration-ms="1" started-at="2021-12-26T14:56:37Z" finished-at="2021-12-26T14:56:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="BeforeTest1()[pri:0, instance:Test1@1081592]" name="BeforeTest1" is-config="true" duration-ms="0" started-at="2021-12-26T14:56:37Z" finished-at="2021-12-26T14:56:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest1 -->
+        <test-method status="PASS" signature="Test4()[pri:0, instance:Test1@1081592]" name="Test4" duration-ms="7" started-at="2021-12-26T14:56:37Z" finished-at="2021-12-26T14:56:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test4 -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:Test1@1081592]" name="AfterMethod" is-config="true" duration-ms="1" started-at="2021-12-26T14:56:37Z" finished-at="2021-12-26T14:56:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="AfterClass()[pri:0, instance:Test1@1081592]" name="AfterClass" is-config="true" duration-ms="1" started-at="2021-12-26T14:56:37Z" finished-at="2021-12-26T14:56:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+        <test-method status="PASS" signature="AfterTest()[pri:0, instance:Test1@1081592]" name="AfterTest" is-config="true" duration-ms="3" started-at="2021-12-26T14:56:37Z" finished-at="2021-12-26T14:56:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

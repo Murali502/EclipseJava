@@ -1,0 +1,26 @@
+{
+"TC1":{
+"asofDate" "value",
+"perods" : "value",
+"body": [
+{
+"acctCode" : "2HJ",
+"benchArray" : []
+}
+]
+
+},
+
+"TC1":{
+"asofDate" "value",
+"perods" : "value",
+"body": [
+{
+"acctCode" : "2HJ",
+"benchArray" : []
+}
+]
+
+}
+
+}

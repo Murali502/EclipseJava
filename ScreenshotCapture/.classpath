@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/girish/Desktop/Resources/selenium-server-standalone-3.14.0 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/girish/Desktop/Resources/pdfjars/itextpdf-5.5.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/girish/Desktop/Resources/ExtentReport/Extentreport2.1/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/girish/Desktop/Resources/ExtentReport/Extentreport2.1/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/girish/Desktop/Resources/ExtentReport/Extentreport2.1/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/girish/Desktop/Resources/ExtentReport/Extentreport2.1/jar_files (1).zip"/>
+	<classpathentry kind="lib" path="C:/Users/girish/Desktop/Resources/ExtentReport/Extentreport2.1/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/girish/Desktop/Resources/ExtentReport/Extentreport2.1/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/girish/Desktop/Resources/ExtentReport/Extentreport2.1/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/girish/Desktop/Resources/ExtentReport/Extentreport2.1/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/girish/Desktop/Resources/ExtentReport/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/girish/Desktop/Resources/ExtentReport/commons-logging-1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

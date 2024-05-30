@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="false">
+  <!-- <test thread-count="1" name="Test">
+  <parameter name ="MyBrowser" value="F"/>
+  <parameter name="TestEnv" value="TEST1">
+    <classes>
+      <class name=".TestJenkins"/>
+    </classes>
+  </test> -->
+  
+  <!-- <test name="Test BrokerPortal webService">
+  <parameter name="TestEnv" value="Azure"/>
+  <classes>
+  <classs name ="">
+  </classs>
+  </classes>
+  </test> -->
+</suite> <!-- Suite -->
